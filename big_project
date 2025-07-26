@@ -9,5 +9,6 @@ def deposit():
         print("amount must be more than $0")
     else:
       print("please enter a number.")
+  return amount
 
-return amount
+deposit()
